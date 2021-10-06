@@ -12,25 +12,25 @@
 - Create a class called `Dog.java`
 - Give the Dog class no additional data fields/members
 - Create a default and parameterized constructors
-- Create a method called sound which prints "woof"
+- Override the sound method to print "woof"
 
 ### Cat
 - Create a class called `Cat.java`
 - Give the Cat class no additional data fields/members
 - Create a default and parameterized constructors
-- Create a method called sound which prints "meow"
+- Override the sound method to print "meow"
 
 ### Pig
 - Create a class called `Pig.java`
 - Give the Pig class no additional data fields/members
 - Create a default and parameterized constructors
-- Create a method called sound which prints "oink"
+- Override the sound method to print "oink"
 
 ### Snake
 - Create a class called `Snake.java`
 - Give the Snake class no additional data fields/members
 - Create a default and parameterized constructors
-- Create a method called sound which prints "hiss"
+- Override the sound method to print "hiss"
 
 ### AnimalTester
 - Create a program called `AnimalTester.java`
