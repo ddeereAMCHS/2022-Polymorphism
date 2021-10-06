@@ -9,25 +9,25 @@
 - Create a method called sound which prints "sound"
 
 ### Dog
-- Create a class called `Dog.java`
+- Create a class called `Dog.java` that is a subclass of Animal
 - Give the Dog class no additional data fields/members
 - Create a default and parameterized constructors
 - Override the sound method to print "woof"
 
 ### Cat
-- Create a class called `Cat.java`
+- Create a class called `Cat.java` that is a subclass of Animal
 - Give the Cat class no additional data fields/members
 - Create a default and parameterized constructors
 - Override the sound method to print "meow"
 
 ### Pig
-- Create a class called `Pig.java`
+- Create a class called `Pig.java` that is a subclass of Animal
 - Give the Pig class no additional data fields/members
 - Create a default and parameterized constructors
 - Override the sound method to print "oink"
 
 ### Snake
-- Create a class called `Snake.java`
+- Create a class called `Snake.java` that is a subclass of Animal
 - Give the Snake class no additional data fields/members
 - Create a default and parameterized constructors
 - Override the sound method to print "hiss"
