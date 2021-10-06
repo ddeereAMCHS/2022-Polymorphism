@@ -27,7 +27,7 @@
 - Create a method called sound which prints "oink"
 
 ### Snake
-- Create a class called `Snalke.java`
+- Create a class called `Snake.java`
 - Give the Snake class no additional data fields/members
 - Create a default and parameterized constructors
 - Create a method called sound which prints "hiss"
